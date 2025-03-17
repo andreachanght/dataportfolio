@@ -7,7 +7,7 @@ Feel free to reach out at andrea_cht@outlook.com if you’d like to chat about m
 ### Machine Learning
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
-  - **[Unsupervised Learning: Customer Segmentation](https://github.com/andreachanght/dataportfolio/unsupervised_learning_customer_segmentation)**
+  - **[Unsupervised Learning: Customer Segmentation](https://github.com/andreachanght/dataportfolio/tree/main/unsupervised_learning_customer_segmentation)**
     Classified two customer groups based on a dataset containing demographic information of 2000 customers. Provided targeted marketing recommendations for each group.
 
 
